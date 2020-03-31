@@ -51,7 +51,7 @@ def add_characters
          {name: "Nurse", age: "44", attitude: "worried"}
          ]
       }
-   }
+   
 
        :additional_characters => [
          {
@@ -59,6 +59,7 @@ def add_characters
          :name => "Apothecary"
        }
      ]
+     }
    # Write code below that does the following programmatically:
    #
    # - Add an additional :additional_characters key to epic_tragedy and assign it an array as its value
